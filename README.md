@@ -4,7 +4,7 @@
 
 👨🏻‍🎓 **Pursuing a B.Sc. in Computer Science** at Afeka College of Engineering  
 🔧 **Practical Electronics Engineer**  
-💻 Passionate about **Cybersecurity** and **Software Development**
+💻 Passionate about **Software Development**
 
 </div>
 
