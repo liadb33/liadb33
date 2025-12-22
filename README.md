@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Liad Barsheshet</h1>
-<h3 align="center">Computer Science Student & Practical Electronics Engineer</h3>
+<h3 align="center">Computer Science Graduate & Practical Electronics Engineer</h3>
 
 
 <p align="center">
