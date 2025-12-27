@@ -1,4 +1,32 @@
-## 👋 About Me<br><br>Hi, I’m Liad <br>A Computer Science graduate and Practical Electronics Engineer<br>Who enjoys building things that actually work in the real world.<br><br>🚀 What I’m building these days  <br>- Personal projects aimed at real-world use (mobile apps, backend services, optimization logic)  <br>- Refactoring and improving existing codebases with better structure and performance  <br><br>🤝 Open to teaming up on  <br>- Open-source initiatives in backend, mobile, or data-focused development  <br>- Projects that value learning, feedback, and clean engineering practices  <br><br>🧠 What I want to get better at  <br>- Designing production-ready systems  <br>- Testing, automation, and basic CI/CD flows  <br>- Technical interviews and problem-solving under time pressure  <br><br>📚 Currently learning  <br>- Backend development patterns and scalable APIs  <br>- Python for automation and backend services  <br>- Algorithms, data structures, and writing clearer code  <br><br>💡 Happy to talk about  <br>- Growing as a junior developer through hands-on projects  <br>- Android and mobile development basics  <br>- Backend architecture and APIs  <br>- Mixing software with electronics and hardware  <br><br>⚡ Fun fact  <br>- I tend to revisit old projects just to refactor them after learning something new,  sometimes more than actually building new ones.<br>
+<h2>👋 About Me</h2>
+
+<p style="font-size:18px;">
+Hi, I’m Liad<br>
+A Computer Science graduate and Practical Electronics Engineer<br>
+Who enjoys building things that actually work in the real world.
+</p>
+
+<h3>🚀 What I’m building these days</h3>
+
+<p>
+<span style="font-size:19px;">• Personal projects aimed at real-world use (mobile apps, backend services, optimization logic)</span><br>
+<span style="font-size:19px;">• Refactoring and improving existing codebases with better structure and performance</span>
+</p>
+
+<h3>📚 Currently learning</h3>
+
+<p>
+<span style="font-size:19px;">• Backend development patterns and scalable APIs</span><br>
+<span style="font-size:19px;">• Python for automation and backend services</span><br>
+<span style="font-size:19px;">• Algorithms, data structures, and writing clearer code</span>
+</p>
+
+<h3>⚡ Fun fact</h3>
+
+<p>
+<span style="font-size:19px;">• I tend to revisit old projects just to refactor them after learning something new, sometimes more than actually building new ones.</span>
+</p>
+
 
 
 ## 🌐 Socials:
