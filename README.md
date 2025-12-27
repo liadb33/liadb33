@@ -1,31 +1,20 @@
-<h2>👋 About Me</h2>
+## 👋 About Me
 
-<p style="font-size:18px;">
-Hi, I’m Liad<br>
-A Computer Science graduate and Practical Electronics Engineer<br>
-Who enjoys building things that actually work in the real world.
-</p>
+## Hi, I’m Liad  
+### A Computer Science graduate and Practical Electronics Engineer  
+### Who enjoys building things that actually work in the real world.
 
-<h3>🚀 What I’m building these days</h3>
+## 🚀 What I’m building these days
+### • Personal projects aimed at real-world use  
+### • Refactoring and improving existing codebases  
 
-<p>
-<span style="font-size:19px;">• Personal projects aimed at real-world use (mobile apps, backend services, optimization logic)</span><br>
-<span style="font-size:19px;">• Refactoring and improving existing codebases with better structure and performance</span>
-</p>
+## 📚 Currently learning
+### • Backend development patterns and scalable APIs  
+### • Python for automation and backend services  
+### • Algorithms, data structures, and writing clearer code  
 
-<h3>📚 Currently learning</h3>
-
-<p>
-<span style="font-size:19px;">• Backend development patterns and scalable APIs</span><br>
-<span style="font-size:19px;">• Python for automation and backend services</span><br>
-<span style="font-size:19px;">• Algorithms, data structures, and writing clearer code</span>
-</p>
-
-<h3>⚡ Fun fact</h3>
-
-<p>
-<span style="font-size:19px;">• I tend to revisit old projects just to refactor them after learning something new, sometimes more than actually building new ones.</span>
-</p>
+## ⚡ Fun fact
+### • I tend to revisit old projects just to refactor them after learning something new.
 
 
 
